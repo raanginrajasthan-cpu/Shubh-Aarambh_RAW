@@ -1,0 +1,711 @@
+[
+  {
+    "Name": "Varalakshmi Vrat",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-08-08T00:00:00",
+    "ToDate": "2025-08-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Varalakshmi Vrat",
+        "Description": "Puja and fast to Goddess Lakshmi for prosperity and well-being."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वरलक्ष्मी व्रत",
+        "Description": "समृद्धि और कल्याण के लिए देवी लक्ष्मी की पूजा और व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Raksha Bandhan",
+    "Category": "Festival",
+    "FromDate": "2025-08-09T00:00:00",
+    "ToDate": "2025-August-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Raksha Bandhan",
+        "Description": "Celebration of sibling bond; sisters tie rakhi on brothers’ wrists."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "रक्षाबंधन",
+        "Description": "बहनें भाइयों की कलाई पर राखी बांधती हैं; भाई-बहन का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Krishna Janmashtami (Smarta)",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-08-15T00:00:00",
+    "ToDate": "2025-08-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Krishna Janmashtami",
+        "Description": "Birth of Lord Krishna celebrated with fasting, midnight puja and devotional songs."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कृष्ण जन्माष्टमी",
+        "Description": "भगवान कृष्ण के जन्म का उत्सव; उपवास, मध्यरात्रि पूजा और भजन।"
+      }
+    ]
+  },
+  {
+    "Name": "Janmashtami (ISKCON tradition)",
+    "Category": "Festival",
+    "FromDate": "2025-08-16T00:00:00",
+    "ToDate": "2025-08-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Janmashtami (ISKCON)",
+        "Description": "Janmashtami observed as per ISKCON tradition; Dahi Handi and special rites."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "जन्माष्टमी (इस्कॉन परंपरा)",
+        "Description": "इस्कॉन परंपरा अनुसार जन्माष्टमी; दही हांडी और विशेष अनुष्ठान।"
+      }
+    ]
+  },
+  {
+    "Name": "Ganesh Chaturthi",
+    "Category": "Festival",
+    "FromDate": "2025-08-27T00:00:00",
+    "ToDate": "2025-08-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganesh Chaturthi",
+        "Description": "Festival marking Lord Ganesha’s birth; idols installed and worshipped."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गणेश चतुर्थी",
+        "Description": "भगवान गणेश के जन्म का उत्सव; मूर्तियों की स्थापना और पूजा।"
+      }
+    ]
+  },
+  {
+    "Name": "Radha Ashtami",
+    "Category": "Festival",
+    "FromDate": "2025-08-31T00:00:00",
+    "ToDate": "2025-08-31T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Radha Ashtami",
+        "Description": "Celebration of the birth of Goddess Radha."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "राधा अष्टमी",
+        "Description": "देवी राधा के जन्म का पर्व।"
+      }
+    ]
+  },
+  {
+    "Name": "Gauri Puja",
+    "Category": "Festival",
+    "FromDate": "2025-09-01T00:00:00",
+    "ToDate": "2025-09-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gauri Puja",
+        "Description": "Worship of Goddess Gauri (Parvati) seeking marital bliss and family harmony."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गौरी पूजा",
+        "Description": "देवी गौरी (पार्वती) की पूजा; वैवाहिक सौहार्द और पारिवारिक सद्भाव हेतु।"
+      }
+    ]
+  },
+  {
+    "Name": "Parsva Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-09-03T00:00:00",
+    "ToDate": "2025-09-03T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Parsva Ekadashi",
+        "Description": "Ekadashi fast in the lunar cycle before Dvadashi; significant for Vaishnavas."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पार्श्व एकादशी",
+        "Description": "चंद्रचक्र की एकादशी व्रत; वैष्णवों के लिए महत्वपूर्ण।"
+      }
+    ]
+  },
+  {
+    "Name": "Vamana Jayanti",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-09-04T00:00:00",
+    "ToDate": "2025-09-04T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vamana Jayanti",
+        "Description": "Commemoration of the Vamana avatar, the dwarf incarnation of Lord Vishnu."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वामन जयंती",
+        "Description": "भगवान विष्णु के वामन अवतार की स्मृति।"
+      }
+    ]
+  },
+  {
+    "Name": "Onam",
+    "Category": "Festival",
+    "FromDate": "2025-09-05T00:00:00",
+    "ToDate": "2025-09-05T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Onam",
+        "Description": "Major harvest festival in Kerala celebrating King Mahabali's annual visit with feasts and cultural activities."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "ओणम",
+        "Description": "केरल का प्रमुख हार्वेस्ट उत्सव; राजा महाबली के आगमन के साथ उल्लास और सांस्कृतिक कार्यक्रम।"
+      }
+    ]
+  },
+  {
+    "Name": "Ganesh Visarjan / Anant Chaturdashi",
+    "Category": "Festival",
+    "FromDate": "2025-09-06T00:00:00",
+    "ToDate": "2025-09-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganesh Visarjan / Anant Chaturdashi",
+        "Description": "Immersion of Lord Ganesha’s idol marking end of Ganesh Chaturthi; worship of Lord Vishnu in his Ananta form."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गणेश विसर्जन / अनंत चतुर्दशी",
+        "Description": "गणेश चतुर्थी का समापन; भगवान विष्णु के अनंत रूप की पूजा।"
+      }
+    ]
+  },
+  {
+    "Name": "Pitru Paksha Begins (Shraddha Period)",
+    "Category": "CelestialEvent",
+    "FromDate": "2025-09-08T00:00:00",
+    "ToDate": "2025-09-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Pitru Paksha",
+        "Description": "Fortnight for ancestors’ rites (Shraddha); offering to departed souls."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पितृ पक्ष",
+        "Description": "पूर्वजों के श्राद्ध का पखवाड़ा; departed आत्माओं को अर्पण।"
+      }
+    ]
+  },
+  {
+    "Name": "Jivitputrika Vrat & Ashtami Rohini",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-09-14T00:00:00",
+    "ToDate": "2025-09-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Jivitputrika Vrat & Ashtami Rohini",
+        "Description": "Vrat for long life of children and auspicious Rohini day (birth star of Lord Krishna)."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "जीवित-पुत्रिका व्रत एवं अश्टमी रोहिणी",
+        "Description": "बच्चों की लंबी आयु के लिए व्रत; कृष्ण के जन्म-नक्षत्र रोहिणी का शुभ दिन।"
+      }
+    ]
+  },
+  {
+    "Name": "Vishwakarma Puja",
+    "Category": "Festival",
+    "FromDate": "2025-09-17T00:00:00",
+    "ToDate": "2025-09-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vishwakarma Puja",
+        "Description": "Worship of Lord Vishwakarma, the divine architect; artisans’ patron."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विश्वकर्मा पूजा",
+        "Description": "भगवान विश्वकर्मा की पूजा; कारीगरों के संरक्षक देवता।"
+      }
+    ]
+  },
+  {
+    "Name": "Mahalaya Amavasya",
+    "Category": "CelestialEvent",
+    "FromDate": "2025-09-21T00:00:00",
+    "ToDate": "2025-09-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mahalaya Amavasya",
+        "Description": "End of Pitru Paksha; rites for ancestors; start of Durga Puja season."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "महालया अमावस्या",
+        "Description": "पितृ पक्ष का समापन; पूर्वजों के श्राद्ध; दुर्गा पूजा की तैयारी।"
+      }
+    ]
+  },
+  {
+    "Name": "Navratri Begins (Ghatasthapana)",
+    "Category": "Festival",
+    "FromDate": "2025-09-22T00:00:00",
+    "ToDate": "2025-09-22T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Sharad Navratri Begin (Ghatasthapana)",
+        "Description": "Start of Sharad Navratri; invoking Goddess Durga with Kalash and ritual installation."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "शारदीय नवरात्रि प्रारंभ (घटस्थापना)",
+        "Description": "शारदीय नवरात्रि की शुरुआत; देवी दुर्गा की स्थापना और कलश पूजा।"
+      }
+    ]
+  },
+  {
+    "Name": "Durga Ashtami & Sandhi Puja",
+    "Category": "Festival",
+    "FromDate": "2025-09-30T00:00:00",
+    "ToDate": "2025-09-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Durga Ashtami & Sandhi Puja",
+        "Description": "Eighth day of Navratri; Sandhi Puja at the juncture of Ashtami and Navami, very auspicious."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दुर्गा अष्टमी एवं संधि पूजा",
+        "Description": "नवरात्रि का आठवाँ दिन; अष्टमी-नवमी के मिलन-समय पर संधि पूजा।"
+      }
+    ]
+  },
+  {
+    "Name": "Maha Navami",
+    "Category": "Festival",
+    "FromDate": "2025-10-01T00:00:00",
+    "ToDate": "2025-10-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Maha Navami",
+        "Description": "The ninth day of Navratri; major rituals for Goddess Durga’s victory over Mahishasura."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "महानवमी",
+        "Description": "नवरात्रि का नौवाँ दिन; महिषासुर पर दुर्गा की विजय का मुख्य अनुष्ठान।"
+      }
+    ]
+  },
+  {
+    "Name": "Vijayadashami (Dussehra)",
+    "Category": "Festival",
+    "FromDate": "2025-10-02T00:00:00",
+    "ToDate": "2025-10-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vijayadashami / Dussehra",
+        "Description": "Victory of good over evil; end of Navratri with Rama’s or Durga’s triumph."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विजयादशमी / दशहरा",
+        "Description": "अच्छाई की बुराई पर विजय; नवरात्रि के समापन और राम या दुर्गा की विजय का पर्व।"
+      }
+    ]
+  },
+  {
+    "Name": "Sharad Purnima / Kojagara Puja",
+    "Category": "Festival",
+    "FromDate": "2025-10-06T00:00:00",
+    "ToDate": "2025-10-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Sharad Purnima",
+        "Description": "Full moon of Kartika; celebrated with moonlit nights, sweets, and worship of the moon and Lakshmi."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "शरद पूर्णिमा / कोजारागा पूजा",
+        "Description": "कार्तिक की पूर्णिमा; पूर्णिमा की रात चाँद की पूजा, मिठाइयाँ और लक्ष्मी आराधना।"
+      }
+    ]
+  },
+  {
+    "Name": "Karwa Chauth",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-10-09T00:00:00",
+    "ToDate": "2025-10-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Karwa Chauth",
+        "Description": "Fasting by married women for the longevity and well-being of their husbands."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "करवा चौथ",
+        "Description": "पति की दीर्घायु और स्वास्थ्य हेतु विवाहित महिलाओं द्वारा व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Dhanteras",
+    "Category": "Festival",
+    "FromDate": "2025-10-18T00:00:00",
+    "ToDate": "2025-10-18T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dhanteras",
+        "Description": "First day of Diwali period; worship for wealth and prosperity."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "धनतेरस",
+        "Description": "दीपावली की शुरुआत; धन और समृद्धि की पूजा।"
+      }
+    ]
+  },
+  {
+    "Name": "Naraka Chaturdashi (Choti Diwali)",
+    "Category": "Festival",
+    "FromDate": "2025-10-19T00:00:00",
+    "ToDate": "2025-10-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Naraka Chaturdashi",
+        "Description": "Day before Diwali; commemorates Krishna’s victory over Narakasura; early morning rituals."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नरक चतुर्दशी",
+        "Description": "दीपावली से पूर्व दिन; नारकासुर पर कृष्ण की विजय; प्रातः अनुष्ठान।"
+      }
+    ]
+  },
+  {
+    "Name": "Diwali / Deepavali",
+    "Category": "Festival",
+    "FromDate": "2025-10-20T00:00:00",
+    "ToDate": "2025-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Diwali / Deepavali",
+        "Description": "Festival of lights; Lakshmi Puja, illumination of lamps, fireworks."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दिवाली / दीपावली",
+        "Description": "दीपों का पर्व; लक्ष्मी पूजा, दीपों और आतिशबाज़ी का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Govardhan Puja / Annakut",
+    "Category": "Festival",
+    "FromDate": "2025-10-21T00:00:00",
+    "ToDate": "2025-10-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Govardhan Puja / Annakut",
+        "Description": "Offering of large variety of food to Lord Krishna and worship of Govardhan Hill."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गोवर्धन पूजा / अन्नकूट",
+        "Description": "भगवान कृष्ण को भिन्न-भिन्न प्रकार के भोजन अर्पण; गोवर्धन पर्वत की भी पूजा।"
+      }
+    ]
+  },
+  {
+    "Name": "Bhai Dooj",
+    "Category": "Festival",
+    "FromDate": "2025-10-23T00:00:00",
+    "ToDate": "2025-10-23T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Bhai Dooj",
+        "Description": "Festival celebrating sibling bond; sisters pray for brothers and perform aarti."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "भाई दूज",
+        "Description": "भाई बहन के बंधन का उत्सव; बहनें भाई के लिए पूजा और आरती करती हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Chhath Puja",
+    "Category": "Festival",
+    "FromDate": "2025-10-27T00:00:00",
+    "ToDate": "2025-10-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chhath Puja",
+        "Description": "Four-day Vedic festival dedicated to the Sun God with offerings at river banks at dawn and dusk."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "छठ पूजा",
+        "Description": "सूर्य देवता को समर्पित चार दिवसीय वैदिक उत्सव; नदी किनारे प्रातः-संध्या अर्पण।"
+      }
+    ]
+  },
+  {
+    "Name": "Prabodhini Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-11-01T00:00:00",
+    "ToDate": "2025-11-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Prabodhini Ekadashi",
+        "Description": "Marks the awakening of Lord Vishnu; end of Chaturmasya; celebrated by Vaishnavas with puja."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "प्रबोधिनी एकादशी",
+        "Description": "भगवान विष्णु के जागरण का दिन; चातुर्मास्य का अंत; वैष्णवों द्वारा पूजा।"
+      }
+    ]
+  },
+  {
+    "Name": "Tulsi Vivah",
+    "Category": "Festival",
+    "FromDate": "2025-11-02T00:00:00",
+    "ToDate": "2025-11-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Tulsi Vivah",
+        "Description": "Ceremonial marriage of the Tulsi plant to Lord Vishnu or Krishna; marks end of monsoon."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "तुलसी विवाह",
+        "Description": "तुलसी पौधे का भगवान विष्णु या कृष्ण से विवाह; वर्षा ऋतु का अंत।"
+      }
+    ]
+  },
+  {
+    "Name": "Kartik Purnima / Dev Deepavali",
+    "Category": "Festival",
+    "FromDate": "2025-11-05T00:00:00",
+    "ToDate": "2025-11-05T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kartik Purnima / Dev Deepavali",
+        "Description": "Full moon day in Kartika; Ghats in Varanasi lit with lamps; festival of lights for gods."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कार्तिक पूर्णिमा / देव दीपावली",
+        "Description": "कार्तिक माह की पूर्णिमा; वाराणसी के घाटों पर दीपों का प्रकाश; देवों की दीपावली।"
+      }
+    ]
+  },
+  {
+    "Name": "Saubhagya Sundari Teej",
+    "Category": "Festival",
+    "FromDate": "2025-11-08T00:00:00",
+    "ToDate": "2025-11-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Saubhagya Sundari Teej",
+        "Description": "Festival celebrating marital bliss and well-being of women; observed in certain regions."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सौभाग्य सुंदरि तीज",
+        "Description": "स्त्रियों के वैवाहिक सौभाग्य एवं कल्याण के लिए मनाया जाने वाला उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Kalabhairav Jayanti",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-11-12T00:00:00",
+    "ToDate": "2025-11-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kalabhairav Jayanti",
+        "Description": "Birth anniversary of Lord Kalabhairava, fierce manifestation of Shiva."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कल भैरव जयंती",
+        "Description": "भगवान काल भैरव की जन्म जयंती; शिव का कृपापूर्ण रूप।"
+      }
+    ]
+  },
+  {
+    "Name": "Vivah Panchami",
+    "Category": "Festival",
+    "FromDate": "2025-11-25T00:00:00",
+    "ToDate": "2025-11-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vivah Panchami",
+        "Description": "Celebration of the wedding of Lord Rama and Goddess Sita."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विवाह पंचमी",
+        "Description": "भगवान राम और देवी सीता के विवाह का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Gita Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-12-01T00:00:00",
+    "ToDate": "2025-12-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gita Jayanti",
+        "Description": "Commemoration of the Bhagavad Gita revelation to Arjuna on the battlefield of Kurukshetra. :contentReference[oaicite:0]{index=0}"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गीता जयंती",
+        "Description": "कुरुक्षेत्र के रणभूमि में भगवान कृष्ण द्वारा अर्जुन को भगवद-गीता का उपदेश दिए जाने का स्मरण। :contentReference[oaicite:1]{index=1}"
+      }
+    ]
+  },
+  {
+    "Name": "Sri Dattatreya Jayanti",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-12-04T00:00_DOUBLE:00",
+    "ToDate": "2025-12-04T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dattatreya Jayanti",
+        "Description": "Birth anniversary of Lord Dattatreya, regarded as the combined form of Brahma, Vishnu, and Shiva. :contentReference[oaicite:2]{index=2}"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दत्तात्रेय जयंती",
+        "Description": "भगवान दत्तात्रेय की जन्म जयंती; ब्रह्मा-विष्णु-शिव के संयुक्त स्वरूप के रूप में माने जाते हैं। :contentReference[oaicite:3]{index=3}"
+      }
+    ]
+  },
+  {
+    "Name": "Saphala Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-12-15T00:00:00",
+    "ToDate": "2025-12-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Saphala Ekadashi",
+        "Description": "Ekadashi fast of Pausha Krishna; considered sacred for blessings and spiritual merit. :contentReference[oaicite:4]{index=4}"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सफल एकादशी",
+        "Description": "पौष कृष्ण पक्ष की एकादशी व्रत; आशीर्वाद और आध्यात्मिक पुण्य के लिए महत्वपूर्ण। :contentReference[oaicite:5]{index=5}"
+      }
+    ]
+  },
+  {
+    "Name": "Dhanu Sankranti",
+    "Category": "CelestialEvent",
+    "FromDate": "2025-12-16T00:00:00",
+    "ToDate": "2025-12-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dhanu Sankranti",
+        "Description": "Sun’s transit into Dhanu (Sagittarius) — a solar sankranti observed regionally. :contentReference[oaicite:6]{index=6}"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "धनु संक्रांति",
+        "Description": "सूर्य का धनु राशि में प्रवेश; क्षेत्रीय रूप से महत्वपूर्ण सौर संक्रांति। :contentReference[oaicite:7]{index=7}"
+      }
+    ]
+  },
+  {
+    "Name": "Pausha Putrada Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-12-30T00:00:00",
+    "ToDate": "2025-12-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Pausha Putrada Ekadashi",
+        "Description": "Ekadashi fast in Pausha month for well-being of sons and family virtue. :contentReference[oaicite:8]{index=8}"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पौषा पुत्रदा एकादशी",
+        "Description": "पौष माह की पुत्रदा एकादशी; पुत्रों और पारिवारिक कल्याण हेतु व्रत। :contentReference[oaicite:9]{index=9}"
+      }
+    ]
+  },
+  {
+    "Name": "Vaikuntha Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-12-31T00:00:00",
+    "ToDate": "2025-12-31T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vaikuntha Ekadashi",
+        "Description": "One of the most sacred Ekadashi fasts; opening of the Vaikuntha door in Vaishnava temples. :contentReference[oaicite:10]{index=10}"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वैष्णव एकादशी / वैकुंठ एकादशी",
+        "Description": "बहुत पवित्र एकादशी व्रत; वैष्णव मंदिरों में वैकुंठ द्वार खुलने का विशेष दिन। :contentReference[oaicite:11]{index=11}"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+  
