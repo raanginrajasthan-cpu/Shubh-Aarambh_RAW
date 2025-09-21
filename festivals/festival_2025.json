@@ -700,12 +700,963 @@
         "Description": "बहुत पवित्र एकादशी व्रत; वैष्णव मंदिरों में वैकुंठ द्वार खुलने का विशेष दिन। :contentReference[oaicite:11]{index=11}"
       }
     ]
+  },
+  
+  [
+  {
+    "Name": "Makar Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-01-14T00:00:00",
+    "ToDate": "2025-01-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Makar Sankranti",
+        "Description": "Harvest festival marking the sun's transition to Capricorn; celebrates the end of winter."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मकर संक्रांति",
+        "Description": "फसल का त्योहार जो सूर्य के मकर राशि में प्रवेश का प्रतीक है; सर्दी के अंत का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Paush Putrada Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-01-25T00:00:00",
+    "ToDate": "2025-01-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Paush Putrada Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for the blessing of children."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पौष पुत्रदा एकादशी",
+        "Description": "संतान प्राप्ति के लिए भगवान विष्णु को समर्पित व्रत का दिन।"
+      }
+    ]
+  },
+  {
+    "Name": "Vasant Panchami",
+    "Category": "Festival",
+    "FromDate": "2025-02-02T00:00:00",
+    "ToDate": "2025-02-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vasant Panchami",
+        "Description": "Festival celebrating Goddess Saraswati and the arrival of spring season."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वसंत पंचमी",
+        "Description": "देवी सरस्वती और वसंत ऋतु के आगमन का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Shattila Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-02-09T00:00:00",
+    "ToDate": "2025-02-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Shattila Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu, involving donations of sesame seeds."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "षट्तिला एकादशी",
+        "Description": "भगवान विष्णु को समर्पित व्रत, तिल के दान के साथ।"
+      }
+    ]
+  },
+  {
+    "Name": "Jaya Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-02-24T00:00:00",
+    "ToDate": "2025-02-24T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Jaya Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for victory over sins and obstacles."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "जया एकादशी",
+        "Description": "पापों और बाधाओं पर विजय के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Maha Shivratri",
+    "Category": "Festival",
+    "FromDate": "2025-02-26T00:00:00",
+    "ToDate": "2025-02-26T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Maha Shivratri",
+        "Description": "Sacred night dedicated to Lord Shiva; devotees observe fasting and night-long prayers."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "महाशिवरात्रि",
+        "Description": "भगवान शिव को समर्पित पवित्र रात्रि; भक्त व्रत और रात भर जागरण करते हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Vijaya Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-03-11T00:00:00",
+    "ToDate": "2025-03-11T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vijaya Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for victory and success."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विजया एकादशी",
+        "Description": "विजय और सफलता के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Holi",
+    "Category": "Festival",
+    "FromDate": "2025-03-14T00:00:00",
+    "ToDate": "2025-03-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Holi",
+        "Description": "Festival of colors celebrating the victory of good over evil and arrival of spring."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "होली",
+        "Description": "रंगों का त्योहार जो बुराई पर अच्छाई की जीत और वसंत के आगमन का उत्सव मनाता है।"
+      }
+    ]
+  },
+  {
+    "Name": "Amalaki Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-03-26T00:00:00",
+    "ToDate": "2025-03-26T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Amalaki Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu, associated with the sacred Amalaki tree."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "आमलकी एकादशी",
+        "Description": "पवित्र आमला वृक्ष के साथ जुड़े भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Chaitra Navratri",
+    "Category": "Festival",
+    "FromDate": "2025-03-30T00:00:00",
+    "ToDate": "2025-04-07T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chaitra Navratri",
+        "Description": "Nine-day festival dedicated to Goddess Durga during spring season."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "चैत्र नवरात्रि",
+        "Description": "वसंत ऋतु में देवी दुर्गा को समर्पित नौ दिवसीय उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Ram Navami",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-04-06T00:00:00",
+    "ToDate": "2025-04-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ram Navami",
+        "Description": "Birthday celebration of Lord Rama, seventh avatar of Vishnu."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "राम नवमी",
+        "Description": "भगवान राम का जन्मदिन, जो विष्णु के सातवें अवतार हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Papmochani Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-04-10T00:00:00",
+    "ToDate": "2025-04-10T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Papmochani Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for liberation from all sins."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पापमोचनी एकादशी",
+        "Description": "सभी पापों से मुक्ति के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Hanuman Jayanti",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-04-13T00:00:00",
+    "ToDate": "2025-04-13T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hanuman Jayanti",
+        "Description": "Birthday celebration of Lord Hanuman, devoted follower of Lord Rama."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हनुमान जयंती",
+        "Description": "भगवान हनुमान का जन्मदिन, जो भगवान राम के परम भक्त हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Kamada Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-04-25T00:00:00",
+    "ToDate": "2025-04-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kamada Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for fulfillment of desires."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कामदा एकादशी",
+        "Description": "इच्छाओं की पूर्ति के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Akshaya Tritiya",
+    "Category": "Festival",
+    "FromDate": "2025-04-30T00:00:00",
+    "ToDate": "2025-04-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Akshaya Tritiya",
+        "Description": "Auspicious day for new beginnings and gold purchases; celebrates eternal prosperity."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "अक्षय तृतीया",
+        "Description": "नई शुरुआत और सोना खरीदने का शुभ दिन; शाश्वत समृद्धि का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Varuthini Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-05-09T00:00:00",
+    "ToDate": "2025-05-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Varuthini Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for protection and blessings."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वरूथिनी एकादशी",
+        "Description": "सुरक्षा और आशीर्वाद के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Buddha Purnima",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-05-12T00:00:00",
+    "ToDate": "2025-05-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Buddha Purnima",
+        "Description": "Celebrates the birth, enlightenment, and death of Lord Buddha."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "बुद्ध पूर्णिमा",
+        "Description": "भगवान बुद्ध के जन्म, ज्ञान प्राप्ति और मृत्यु का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Mohini Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-05-24T00:00:00",
+    "ToDate": "2025-05-24T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mohini Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for spiritual purification."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मोहिनी एकादशी",
+        "Description": "आध्यात्मिक शुद्धता के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Nirjala Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-06-08T00:00:00",
+    "ToDate": "2025-06-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Nirjala Ekadashi",
+        "Description": "Most austere fasting day without water, dedicated to Lord Vishnu."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "निर्जला एकादशी",
+        "Description": "सबसे कठिन व्रत जिसमें पानी भी नहीं पिया जाता, भगवान विष्णु को समर्पित।"
+      }
+    ]
+  },
+  {
+    "Name": "Yogini Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-06-23T00:00:00",
+    "ToDate": "2025-06-23T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Yogini Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for spiritual advancement."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "योगिनी एकादशी",
+        "Description": "आध्यात्मिक उन्नति के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Jagannath Rath Yatra",
+    "Category": "Festival",
+    "FromDate": "2025-06-29T00:00:00",
+    "ToDate": "2025-06-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Jagannath Rath Yatra",
+        "Description": "Grand chariot festival of Lord Jagannath celebrated in Puri, Odisha."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "जगन्नाथ रथ यात्रा",
+        "Description": "पुरी, ओडिशा में मनाया जाने वाला भगवान जगन्नाथ का भव्य रथ उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Shayani Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-07-08T00:00:00",
+    "ToDate": "2025-07-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Shayani Ekadashi",
+        "Description": "Fasting day marking the beginning of Lord Vishnu's four-month sleep."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "शयनी एकादशी",
+        "Description": "भगवान विष्णु के चार महीने की निद्रा की शुरुआत का व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Guru Purnima",
+    "Category": "Festival",
+    "FromDate": "2025-07-13T00:00:00",
+    "ToDate": "2025-07-13T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Guru Purnima",
+        "Description": "Festival honoring spiritual teachers and gurus; celebrates the guru-disciple tradition."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गुरु पूर्णिमा",
+        "Description": "आध्यात्मिक शिक्षकों और गुरुओं का सम्मान; गुरु-शिष्य परंपरा का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Kamika Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-07-22T00:00:00",
+    "ToDate": "2025-07-22T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kamika Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu during the monsoon season."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कामिका एकादशी",
+        "Description": "वर्षा ऋतु में भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Nag Panchami",
+    "Category": "Festival",
+    "FromDate": "2025-08-01T00:00:00",
+    "ToDate": "2025-08-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Nag Panchami",
+        "Description": "Festival dedicated to serpent deities; devotees worship snakes for protection."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नाग पंचमी",
+        "Description": "सर्प देवताओं को समर्पित त्योहार; भक्त सुरक्षा के लिए नागों की पूजा करते हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Shravana Putrada Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-08-06T00:00:00",
+    "ToDate": "2025-08-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Shravana Putrada Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for the blessing of children."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "श्रावण पुत्रदा एकादशी",
+        "Description": "संतान प्राप्ति के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Raksha Bandhan",
+    "Category": "Festival",
+    "FromDate": "2025-08-09T00:00:00",
+    "ToDate": "2025-08-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Raksha Bandhan",
+        "Description": "Festival celebrating the bond between brothers and sisters; sisters tie rakhi for protection."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "रक्षा बंधन",
+        "Description": "भाई-बहन के बंधन का उत्सव; बहनें सुरक्षा के लिए राखी बांधती हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Krishna Janmashtami",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-08-16T00:00:00",
+    "ToDate": "2025-08-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Krishna Janmashtami",
+        "Description": "Birthday celebration of Lord Krishna, eighth avatar of Vishnu."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कृष्ण जन्माष्टमी",
+        "Description": "भगवान कृष्ण का जन्मदिन, जो विष्णu के आठवें अवतार हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Aja Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-08-21T00:00:00",
+    "ToDate": "2025-08-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Aja Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for spiritual purification."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "अजा एकादशी",
+        "Description": "आध्यात्मिक शुद्धता के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Ganesh Chaturthi",
+    "Category": "Festival",
+    "FromDate": "2025-08-27T00:00:00",
+    "ToDate": "2025-08-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganesh Chaturthi",
+        "Description": "Birthday celebration of Lord Ganesha, remover of obstacles and patron of arts."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गणेश चतुर्थी",
+        "Description": "भगवान गणेश का जन्मदिन, जो विघ्न हर्ता और कलाओं के संरक्षक हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Parsva Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-09-05T00:00:00",
+    "ToDate": "2025-09-05T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Parsva Ekadashi",
+        "Description": "Fasting day when Lord Vishnu changes his sleeping position."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पार्श्व एकादशी",
+        "Description": "व्रत का दिन जब भगवान विष्णु अपनी सोने की मुद्रा बदलते हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Indira Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-09-20T00:00:00",
+    "ToDate": "2025-09-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Indira Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for liberation of ancestors."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "इंदिरा एकादशी",
+        "Description": "पूर्वजों की मुक्ति के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Sharad Navratri",
+    "Category": "Festival",
+    "FromDate": "2025-09-22T00:00:00",
+    "ToDate": "2025-09-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Sharad Navratri",
+        "Description": "Nine-day festival dedicated to Goddess Durga during autumn season."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "शरद नवरात्रि",
+        "Description": "शरद ऋतु में देवी दुर्गा को समर्पित नौ दिवसीय उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Dussehra",
+    "Category": "Festival",
+    "FromDate": "2025-10-02T00:00:00",
+    "ToDate": "2025-10-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dussehra",
+        "Description": "Celebrates Lord Rama's victory over demon king Ravana; triumph of good over evil."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दशहरा",
+        "Description": "राक्षस राज रावण पर भगवान राम की विजय का उत्सव; बुराई पर अच्छाई की जीत।"
+      }
+    ]
+  },
+  {
+    "Name": "Papankusha Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-10-05T00:00:00",
+    "ToDate": "2025-10-05T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Papankusha Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for destruction of sins."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पापांकुशा एकादशी",
+        "Description": "पापों के नाश के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Karva Chauth",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-10-20T00:00:00",
+    "ToDate": "2025-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Karva Chauth",
+        "Description": "Fasting festival where married women pray for their husbands' long life and prosperity."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "करवा चौथ",
+        "Description": "व्रत त्योहार जहां विवाहित महिलाएं अपने पति की लंबी उम्र और समृद्धि के लिए प्रार्थना करती हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Rama Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-10-20T00:00:00",
+    "ToDate": "2025-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Rama Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu during the Kartik month."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "रमा एकादशी",
+        "Description": "कार्तिक माह में भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Dhanteras",
+    "Category": "Festival",
+    "FromDate": "2025-10-29T00:00:00",
+    "ToDate": "2025-10-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dhanteras",
+        "Description": "First day of Diwali festivities; celebrates wealth and prosperity through Goddess Lakshmi."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "धनतेरस",
+        "Description": "दिवाली उत्सव का पहला दिन; देवी लक्ष्मी के माध्यम से धन और समृद्धि का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Naraka Chaturdashi",
+    "Category": "Festival",
+    "FromDate": "2025-10-31T00:00:00",
+    "ToDate": "2025-10-31T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Naraka Chaturdashi",
+        "Description": "Second day of Diwali; celebrates Lord Krishna's victory over demon Narakasura."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नरक चतुर्दशी",
+        "Description": "दिवाली का दूसरा दिन; राक्षस नरकासुर पर भगवान कृष्ण की विजय का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Diwali",
+    "Category": "Festival",
+    "FromDate": "2025-11-01T00:00:00",
+    "ToDate": "2025-11-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Diwali",
+        "Description": "Festival of lights celebrating Lord Rama's return to Ayodhya; triumph of light over darkness."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दिवाली",
+        "Description": "रोशनी का त्योहार जो अयोध्या में भगवान राम की वापसी का उत्सव मनाता है; अंधकार पर प्रकाश की विजय।"
+      }
+    ]
+  },
+  {
+    "Name": "Govardhan Puja",
+    "Category": "Festival",
+    "FromDate": "2025-11-02T00:00:00",
+    "ToDate": "2025-11-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Govardhan Puja",
+        "Description": "Fourth day of Diwali; celebrates Lord Krishna lifting Govardhan mountain."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गोवर्धन पूजा",
+        "Description": "दिवाली का चौथा दिन; भगवान कृष्ण द्वारा गोवर्धन पर्वत उठाने का उत्सव।"
+      }
+    ]
+  },
+  {
+    "Name": "Bhai Dooj",
+    "Category": "Festival",
+    "FromDate": "2025-11-03T00:00:00",
+    "ToDate": "2025-11-03T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Bhai Dooj",
+        "Description": "Final day of Diwali; sisters pray for their brothers' well-being and long life."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "भाई दूज",
+        "Description": "दिवाली का अंतिम दिन; बहनें अपने भाइयों की भलाई और लंबी उम्र की प्रार्थना करती हैं।"
+      }
+    ]
+  },
+  {
+    "Name": "Devutthani Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-11-04T00:00:00",
+    "ToDate": "2025-11-04T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Devutthani Ekadashi",
+        "Description": "Fasting day marking the end of Lord Vishnu's four-month sleep."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "देवउठनी एकादशी",
+        "Description": "भगवान विष्णु की चार महीने की निद्रा के अंत का व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Guru Nanak Jayanti",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-11-15T00:00:00",
+    "ToDate": "2025-11-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Guru Nanak Jayanti",
+        "Description": "Birthday celebration of Guru Nanak, founder of Sikhism."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गुरु नानक जयंती",
+        "Description": "सिख धर्म के संस्थापक गुरु नानक का जन्मदिन।"
+      }
+    ]
+  },
+  {
+    "Name": "Kartik Purnima",
+    "Category": "Festival",
+    "FromDate": "2025-11-15T00:00:00",
+    "ToDate": "2025-11-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kartik Purnima",
+        "Description": "Sacred full moon day dedicated to Lord Vishnu and various rituals."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कार्तिक पूर्णिमा",
+        "Description": "भगवान विष्णु और विभिन्न अनुष्ठानों को समर्पित पवित्र पूर्णिमा का दिन।"
+      }
+    ]
+  },
+  {
+    "Name": "Utpanna Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-11-19T00:00:00",
+    "ToDate": "2025-11-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Utpanna Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu during the Margashirsha month."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "उत्पन्ना एकादशी",
+        "Description": "मार्गशीर्ष माह में भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Mokshada Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-12-04T00:00:00",
+    "ToDate": "2025-12-04T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mokshada Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for liberation and moksha."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मोक्षदा एकादशी",
+        "Description": "मुक्ति और मोक्ष के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Gita Jayanti",
+    "Category": "JayantiOrBirth",
+    "FromDate": "2025-12-11T00:00:00",
+    "ToDate": "2025-12-11T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gita Jayanti",
+        "Description": "Celebrates the day when Lord Krishna delivered the Bhagavad Gita to Arjuna."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गीता जयंती",
+        "Description": "वह दिन जब भगवान कृष्ण ने अर्जुन को भगवद गीता का उपदेश दिया था।"
+      }
+    ]
+  },
+  {
+    "Name": "Saphala Ekadashi",
+    "Category": "VratOrUpvaas",
+    "FromDate": "2025-12-18T00:00:00",
+    "ToDate": "2025-12-18T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Saphala Ekadashi",
+        "Description": "Fasting day dedicated to Lord Vishnu for success and fulfillment."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सफला एकादशी",
+        "Description": "सफलता और पूर्णता के लिए भगवान विष्णु को समर्पित व्रत।"
+      }
+    ]
+  },
+  {
+    "Name": "Total Lunar Eclipse",
+    "Category": "CelestialEvent",
+    "FromDate": "2025-03-14T00:00:00",
+    "ToDate": "2025-03-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Total Lunar Eclipse",
+        "Description": "Entire moon passes through Earth's umbra; visible in several regions."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पूर्ण चंद्र ग्रहण",
+        "Description": "चंद्रमा पूरी तरह से पृथ्वी की छाया में; कई क्षेत्रों में दिखाई देता है।"
+      }
+    ]
+  },
+  {
+    "Name": "Partial Solar Eclipse",
+    "Category": "CelestialEvent",
+    "FromDate": "2025-03-29T00:00:00",
+    "ToDate": "2025-03-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Partial Solar Eclipse",
+        "Description": "Moon covers part of the Sun; partial eclipse visible in select regions."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "आंशिक सूर्य ग्रहण",
+        "Description": "चंद्रमा सूर्य के एक हिस्से को ढकता है; चयनित क्षेत्रों में दिखाई देता है।"
+      }
+    ]
+  },
+  {
+    "Name": "Total Lunar Eclipse",
+    "Category": "CelestialEvent",
+    "FromDate": "2025-09-07T00:00:00",
+    "ToDate": "2025-09-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Total Lunar Eclipse",
+        "Description": "Moon passes completely through Earth's umbra; visible in parts of Asia, Australia, Americas."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पूर्ण चंद्र ग्रहण",
+        "Description": "चंद्रमा पूरी तरह से पृथ्वी की छाया से गुजरता है; एशिया, ऑस्ट्रेलिया, अमेरिका के कुछ हिस्सों में दिखाई देता है।"
+      }
+    ]
+  },
+  {
+    "Name": "Partial Solar Eclipse",
+    "Category": "CelestialEvent",
+    "FromDate": "2025-09-21T00:00:00",
+    "ToDate": "2025-09-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Partial Solar Eclipse",
+        "Description": "Moon partially covers the Sun; visible from parts of South America, Africa, and Atlantic Ocean."
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "आंशिक सूर्य ग्रहण",
+        "Description": "चंद्रमा सूर्य के एक हिस्से को ढकता है; दक्षिण अमेरिका, अफ्रीका और अटलांटिक महासागर के कुछ हिस्सों में दिखाई देता है।"
+      }
+    ]
   }
 ]
-
-
-
-
-
-
   
+]
