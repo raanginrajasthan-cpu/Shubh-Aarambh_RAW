@@ -21,7 +21,7 @@
     "Name": "Raksha Bandhan",
     "Category": "Festival",
     "FromDate": "2025-08-09T00:00:00",
-    "ToDate": "2025-August-09T23:59:59",
+    "ToDate": "2025-08-09T23:59:59",
     "Localization": [
       {
         "LanguageCode": "en",
@@ -702,6 +702,7 @@
     ]
   }
 ]
+
 
 
 
