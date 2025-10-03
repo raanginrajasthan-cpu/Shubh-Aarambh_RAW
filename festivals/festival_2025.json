@@ -614,7 +614,7 @@
   {
     "Name": "Sri Dattatreya Jayanti",
     "Category": "JayantiOrBirth",
-    "FromDate": "2025-12-04T00:00_DOUBLE:00",
+    "FromDate": "2025-12-04T00:00:00",
     "ToDate": "2025-12-04T23:59:59",
     "Localization": [
       {
@@ -710,3 +710,4 @@
 
 
   
+
