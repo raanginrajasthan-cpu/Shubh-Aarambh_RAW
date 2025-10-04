@@ -1,0 +1,22 @@
+{
+  "privacy_policy": {
+    "english": {
+      "title": "Privacy Policy",
+      "intro": "Your privacy matters to us. Our app is designed to give you a smooth and reliable experience, and we want you to feel confident when using it. We do not collect personal information such as your name, email, or contacts.",
+      "usage_information": "To help us improve the app and fix issues, we may collect limited technical information about how the app is used. This information is anonymous, used only to make the app better, and never linked to you personally. You can choose whether or not to share this information during setup, and you can change this choice anytime in the app’s settings.",
+      "location_information": "Our app may request access to your device’s location. This is used only to provide accurate calendar and timing information (such as sunrise, sunset, or Panchang details) based on your area. You are always in control of this permission. If you prefer not to share your location, you can deny access and instead select your location manually. The app will continue to work without location access.",
+      "use_of_information": "Any information collected is used solely to improve app performance and provide accurate features. It is never sold or shared with third parties.",
+      "changes": "We may update this Privacy Policy from time to time. Continued use of the app means you accept the updated policy.",
+      "contact": "If you have any questions about this Privacy Policy, please contact us at {0}."
+    },
+    "hindi": {
+      "title": "गोपनीयता नीति",
+      "intro": "आपकी गोपनीयता हमारे लिए महत्वपूर्ण है। हमारा ऐप आपको एक सहज और भरोसेमंद अनुभव देने के लिए बनाया गया है, और हम चाहते हैं कि आप इसका उपयोग करते समय निश्चिंत रहें। हम आपका व्यक्तिगत डेटा, जैसे नाम, ईमेल या कॉन्टैक्ट्स, एकत्र नहीं करते।",
+      "usage_information": "ऐप को बेहतर बनाने और समस्याओं को ठीक करने के लिए हम ऐप के उपयोग से जुड़ी सीमित तकनीकी जानकारी एकत्र कर सकते हैं। यह जानकारी गुमनाम होती है, केवल ऐप को बेहतर बनाने के लिए उपयोग की जाती है, और कभी भी आपसे व्यक्तिगत रूप से जुड़ी नहीं होती। आप सेटअप के समय तय कर सकते हैं कि यह जानकारी साझा करनी है या नहीं, और बाद में ऐप की सेटिंग्स से अपना निर्णय बदल सकते हैं।",
+      "location_information": "हमारा ऐप आपके डिवाइस के स्थान (लोकेशन) तक पहुँच की अनुमति मांग सकता है। इसका उपयोग केवल आपके क्षेत्र के आधार पर सही कैलेंडर और समय संबंधी जानकारी (जैसे सूर्योदय, सूर्यास्त या पंचांग विवरण) प्रदान करने के लिए किया जाता है। आप हमेशा इस अनुमति पर नियंत्रण रखते हैं। यदि आप स्थान साझा नहीं करना चाहते, तो अनुमति अस्वीकार कर सकते हैं और इसके बजाय अपना स्थान मैन्युअली चुन सकते हैं। ऐप बिना लोकेशन एक्सेस के भी काम करेगा।",
+      "use_of_information": "एकत्र की गई जानकारी केवल ऐप के प्रदर्शन और सुविधाओं को बेहतर बनाने के लिए उपयोग की जाती है। इसे कभी भी बेचा या तीसरे पक्ष के साथ साझा नहीं किया जाता।",
+      "changes": "हम समय-समय पर इस गोपनीयता नीति को अपडेट कर सकते हैं। ऐप का निरंतर उपयोग करने का अर्थ है कि आप अपडेटेड नीति को स्वीकार करते हैं।",
+      "contact": "यदि इस गोपनीयता नीति के बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे {0} पर संपर्क करें।"
+    }
+  }
+}
