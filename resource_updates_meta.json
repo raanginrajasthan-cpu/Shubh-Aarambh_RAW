@@ -1,14 +1,5 @@
 {
   "resource_updates": [
-    {
-      "resource_type": "Festival",
-      "version": "25_26",
-      "date_modified": "2025-10-13T19:40:00Z"
-    },
-    {
-      "resource_type": "City",
-      "version": "1.0.2",
-      "date_modified": "2025-08-02T08:30:00Z"
-    }
+    
   ]
 }
