@@ -1,0 +1,2690 @@
+[
+  {
+    "Name": "Makara Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-01-14T00:00:00",
+    "ToDate": "2025-01-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Makara Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मकर संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Pongal",
+    "Category": "Festival",
+    "FromDate": "2025-01-14T00:00:00",
+    "ToDate": "2025-01-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Pongal"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पोंगल"
+      }
+    ]
+  },
+  {
+    "Name": "Purna Kumbha @Prayagraj",
+    "Category": "Festival",
+    "FromDate": "2025-01-14T00:00:00",
+    "ToDate": "2025-01-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Purna Kumbha @Prayagraj"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पूर्ण कुंभ प्रयागराज"
+      }
+    ]
+  },
+  {
+    "Name": "Sakat Chauth",
+    "Category": "Festival",
+    "FromDate": "2025-01-17T00:00:00",
+    "ToDate": "2025-01-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Sakat Chauth"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सकट चौथ"
+      }
+    ]
+  },
+  {
+    "Name": "Mauni Amavas",
+    "Category": "Festival",
+    "FromDate": "2025-01-29T00:00:00",
+    "ToDate": "2025-01-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mauni Amavas"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मौनी अमावस्या"
+      }
+    ]
+  },
+  {
+    "Name": "Vasant Panchami",
+    "Category": "Festival",
+    "FromDate": "2025-02-02T00:00:00",
+    "ToDate": "2025-02-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vasant Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वसंत पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Ratha Saptami",
+    "Category": "Festival",
+    "FromDate": "2025-02-04T00:00:00",
+    "ToDate": "2025-02-04T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ratha Saptami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "रथ सप्तमी"
+      }
+    ]
+  },
+  {
+    "Name": "Kumbha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-02-12T00:00:00",
+    "ToDate": "2025-02-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kumbha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कुंभ संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Purna Kumbha ends @Prayagraj",
+    "Category": "Festival",
+    "FromDate": "2025-02-12T00:00:00",
+    "ToDate": "2025-02-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Purna Kumbha ends @Prayagraj"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "Purna Kumbha ends @Prayagraj"
+      }
+    ]
+  },
+  {
+    "Name": "Maha Shivaratri",
+    "Category": "Festival",
+    "FromDate": "2025-02-26T00:00:00",
+    "ToDate": "2025-02-26T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Maha Shivaratri"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "महाशिवरात्रि"
+      }
+    ]
+  },
+  {
+    "Name": "Chhoti Holi",
+    "Category": "Festival",
+    "FromDate": "2025-03-13T00:00:00",
+    "ToDate": "2025-03-13T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chhoti Holi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "छोटी होली"
+      }
+    ]
+  },
+  {
+    "Name": "Holika Dahan",
+    "Category": "Festival",
+    "FromDate": "2025-03-13T00:00:00",
+    "ToDate": "2025-03-13T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Holika Dahan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "होलिका दहन"
+      }
+    ]
+  },
+  {
+    "Name": "Holi",
+    "Category": "Festival",
+    "FromDate": "2025-03-14T00:00:00",
+    "ToDate": "2025-03-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Holi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "होली"
+      }
+    ]
+  },
+  {
+    "Name": "Meena Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-03-14T00:00:00",
+    "ToDate": "2025-03-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Meena Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मीन संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Chandra Grahan *Purna",
+    "Category": "Festival",
+    "FromDate": "2025-03-14T00:00:00",
+    "ToDate": "2025-03-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chandra Grahan *Purna"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "चंद्र ग्रहण *पूर्ण"
+      }
+    ]
+  },
+  {
+    "Name": "Basoda",
+    "Category": "Festival",
+    "FromDate": "2025-03-22T00:00:00",
+    "ToDate": "2025-03-22T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Basoda"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "बसोड़ा"
+      }
+    ]
+  },
+  {
+    "Name": "Surya Grahan *Anshika",
+    "Category": "Festival",
+    "FromDate": "2025-03-29T00:00:00",
+    "ToDate": "2025-03-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Surya Grahan *Anshika"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सूर्य ग्रहण *आंशिक"
+      }
+    ]
+  },
+  {
+    "Name": "Ugadi",
+    "Category": "Festival",
+    "FromDate": "2025-03-30T00:00:00",
+    "ToDate": "2025-03-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ugadi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "उगादी"
+      }
+    ]
+  },
+  {
+    "Name": "Gudi Padwa",
+    "Category": "Festival",
+    "FromDate": "2025-03-30T00:00:00",
+    "ToDate": "2025-03-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gudi Padwa"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गुड़ी पड़वा"
+      }
+    ]
+  },
+  {
+    "Name": "Chaitra Navratri",
+    "Category": "Festival",
+    "FromDate": "2025-03-30T00:00:00",
+    "ToDate": "2025-03-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chaitra Navratri"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "चैत्र नवरात्रि"
+      }
+    ]
+  },
+  {
+    "Name": "Gauri Puja",
+    "Category": "Festival",
+    "FromDate": "2025-03-31T00:00:00",
+    "ToDate": "2025-03-31T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gauri Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गौरी पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Gangaur",
+    "Category": "Festival",
+    "FromDate": "2025-03-31T00:00:00",
+    "ToDate": "2025-03-31T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gangaur"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गणगौर"
+      }
+    ]
+  },
+  {
+    "Name": "Yamuna Chhath",
+    "Category": "Festival",
+    "FromDate": "2025-04-03T00:00:00",
+    "ToDate": "2025-04-03T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Yamuna Chhath"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "यमुना छठ"
+      }
+    ]
+  },
+  {
+    "Name": "Swaminarayan Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-04-06T00:00:00",
+    "ToDate": "2025-04-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Swaminarayan Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "स्वामीनारायण जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Hanuman Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-04-12T00:00:00",
+    "ToDate": "2025-04-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hanuman Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हनुमान जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Hanuman Janmotsava",
+    "Category": "Festival",
+    "FromDate": "2025-04-12T00:00:00",
+    "ToDate": "2025-04-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hanuman Janmotsava"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हनुमान जन्मोत्सव"
+      }
+    ]
+  },
+  {
+    "Name": "Mesha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-04-14T00:00:00",
+    "ToDate": "2025-04-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mesha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मेष संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Solar New Year",
+    "Category": "Festival",
+    "FromDate": "2025-04-14T00:00:00",
+    "ToDate": "2025-04-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Solar New Year"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सौर नववर्ष"
+      }
+    ]
+  },
+  {
+    "Name": "Parashurama Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-04-29T00:00:00",
+    "ToDate": "2025-04-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Parashurama Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "परशुराम जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Akshaya Tritiya",
+    "Category": "Festival",
+    "FromDate": "2025-04-30T00:00:00",
+    "ToDate": "2025-04-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Akshaya Tritiya"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "अक्षय तृतीया"
+      }
+    ]
+  },
+  {
+    "Name": "Ganga Saptami",
+    "Category": "Festival",
+    "FromDate": "2025-05-03T00:00:00",
+    "ToDate": "2025-05-03T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganga Saptami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गंगा सप्तमी"
+      }
+    ]
+  },
+  {
+    "Name": "Narasimha Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-05-11T00:00:00",
+    "ToDate": "2025-05-11T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Narasimha Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नरसिंह जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Narada Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-05-13T00:00:00",
+    "ToDate": "2025-05-13T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Narada Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नारद जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Vrishabha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-05-15T00:00:00",
+    "ToDate": "2025-05-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vrishabha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वृषभ संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Vat Savitri Vrat",
+    "Category": "Festival",
+    "FromDate": "2025-05-26T00:00:00",
+    "ToDate": "2025-05-26T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vat Savitri Vrat"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वट सावित्री व्रत"
+      }
+    ]
+  },
+  {
+    "Name": "Shani Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-05-27T00:00:00",
+    "ToDate": "2025-05-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Shani Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "शनि जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Ganga Dussehra",
+    "Category": "Festival",
+    "FromDate": "2025-06-05T00:00:00",
+    "ToDate": "2025-06-05T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganga Dussehra"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गंगा दशहरा"
+      }
+    ]
+  },
+  {
+    "Name": "Mithuna Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-06-15T00:00:00",
+    "ToDate": "2025-06-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mithuna Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मिथुन संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Jagannath Rathyatra",
+    "Category": "Festival",
+    "FromDate": "2025-06-27T00:00:00",
+    "ToDate": "2025-06-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Jagannath Rathyatra"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "जगन्नाथ रथयात्रा"
+      }
+    ]
+  },
+  {
+    "Name": "Karka Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-07-16T00:00:00",
+    "ToDate": "2025-07-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Karka Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कर्क संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Hariyali Teej",
+    "Category": "Festival",
+    "FromDate": "2025-07-27T00:00:00",
+    "ToDate": "2025-07-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hariyali Teej"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हरियाली तीज"
+      }
+    ]
+  },
+  {
+    "Name": "Nag Panchami",
+    "Category": "Festival",
+    "FromDate": "2025-07-29T00:00:00",
+    "ToDate": "2025-07-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Nag Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नाग पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Agastya Arghya",
+    "Category": "Festival",
+    "FromDate": "2025-08-01T00:00:00",
+    "ToDate": "2025-08-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Agastya Arghya"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "Agastya Arghya"
+      }
+    ]
+  },
+  {
+    "Name": "Varalakshmi Vrat",
+    "Category": "Festival",
+    "FromDate": "2025-08-08T00:00:00",
+    "ToDate": "2025-08-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Varalakshmi Vrat"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वरलक्ष्मी व्रत"
+      }
+    ]
+  },
+  {
+    "Name": "Raksha Bandhan",
+    "Category": "Festival",
+    "FromDate": "2025-08-09T00:00:00",
+    "ToDate": "2025-08-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Raksha Bandhan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "रक्षाबंधन"
+      }
+    ]
+  },
+  {
+    "Name": "Rakhi",
+    "Category": "Festival",
+    "FromDate": "2025-08-09T00:00:00",
+    "ToDate": "2025-08-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Rakhi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "राखी"
+      }
+    ]
+  },
+  {
+    "Name": "Gayatri Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-08-09T00:00:00",
+    "ToDate": "2025-08-09T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gayatri Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गायत्री जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Kajari Teej",
+    "Category": "Festival",
+    "FromDate": "2025-08-12T00:00:00",
+    "ToDate": "2025-08-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kajari Teej"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कजरी तीज"
+      }
+    ]
+  },
+  {
+    "Name": "Simha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-08-17T00:00:00",
+    "ToDate": "2025-08-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Simha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सिंह संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Hartalika Teej",
+    "Category": "Festival",
+    "FromDate": "2025-08-26T00:00:00",
+    "ToDate": "2025-08-26T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hartalika Teej"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हरतालिका तीज"
+      }
+    ]
+  },
+  {
+    "Name": "Rishi Panchami",
+    "Category": "Festival",
+    "FromDate": "2025-08-28T00:00:00",
+    "ToDate": "2025-08-28T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Rishi Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "ऋषि पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Balarama Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-08-29T00:00:00",
+    "ToDate": "2025-08-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Balarama Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "बलराम जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Onam",
+    "Category": "Festival",
+    "FromDate": "2025-09-05T00:00:00",
+    "ToDate": "2025-09-05T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Onam"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "ओणम"
+      }
+    ]
+  },
+  {
+    "Name": "Ganesh Visarjan",
+    "Category": "Festival",
+    "FromDate": "2025-09-06T00:00:00",
+    "ToDate": "2025-09-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganesh Visarjan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गणेश विसर्जन"
+      }
+    ]
+  },
+  {
+    "Name": "Anant Chaturdashi",
+    "Category": "Festival",
+    "FromDate": "2025-09-06T00:00:00",
+    "ToDate": "2025-09-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Anant Chaturdashi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "अनंत चतुर्दशी"
+      }
+    ]
+  },
+  {
+    "Name": "Chandra Grahan *Purna",
+    "Category": "Festival",
+    "FromDate": "2025-09-07T00:00:00",
+    "ToDate": "2025-09-07T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chandra Grahan *Purna"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "चंद्र ग्रहण *पूर्ण"
+      }
+    ]
+  },
+  {
+    "Name": "Pitrupaksha Begins",
+    "Category": "Festival",
+    "FromDate": "2025-09-08T00:00:00",
+    "ToDate": "2025-09-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Pitrupaksha Begins"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पितृपक्ष आरंभ"
+      }
+    ]
+  },
+  {
+    "Name": "Vishwakarma Puja",
+    "Category": "Festival",
+    "FromDate": "2025-09-17T00:00:00",
+    "ToDate": "2025-09-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vishwakarma Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विश्वकर्मा पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Kanya Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-09-17T00:00:00",
+    "ToDate": "2025-09-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kanya Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कन्या संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Navratri Begins",
+    "Category": "Festival",
+    "FromDate": "2025-09-22T00:00:00",
+    "ToDate": "2025-09-22T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Navratri Begins"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नवरात्रि आरंभ"
+      }
+    ]
+  },
+  {
+    "Name": "Surya Grahan *Anshika",
+    "Category": "Festival",
+    "FromDate": "2025-09-22T00:00:00",
+    "ToDate": "2025-09-22T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Surya Grahan *Anshika"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सूर्य ग्रहण *आंशिक"
+      }
+    ]
+  },
+  {
+    "Name": "Saraswati Avahan",
+    "Category": "Festival",
+    "FromDate": "2025-09-29T00:00:00",
+    "ToDate": "2025-09-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Saraswati Avahan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सरस्वती आवाहन"
+      }
+    ]
+  },
+  {
+    "Name": "Saraswati Puja",
+    "Category": "Festival",
+    "FromDate": "2025-09-30T00:00:00",
+    "ToDate": "2025-09-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Saraswati Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सरस्वती पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Vijayadashami",
+    "Category": "Festival",
+    "FromDate": "2025-10-02T00:00:00",
+    "ToDate": "2025-10-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vijayadashami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विजयादशमी"
+      }
+    ]
+  },
+  {
+    "Name": "Dussehra",
+    "Category": "Festival",
+    "FromDate": "2025-10-02T00:00:00",
+    "ToDate": "2025-10-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dussehra"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दशहरा"
+      }
+    ]
+  },
+  {
+    "Name": "Kojagara Puja",
+    "Category": "Festival",
+    "FromDate": "2025-10-06T00:00:00",
+    "ToDate": "2025-10-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kojagara Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कोजागरी पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Karwa Chauth",
+    "Category": "Festival",
+    "FromDate": "2025-10-10T00:00:00",
+    "ToDate": "2025-10-10T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Karwa Chauth"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "करवा चौथ"
+      }
+    ]
+  },
+  {
+    "Name": "Govatsa Dwadashi",
+    "Category": "Festival",
+    "FromDate": "2025-10-17T00:00:00",
+    "ToDate": "2025-10-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Govatsa Dwadashi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गोवत्स द्वादशी"
+      }
+    ]
+  },
+  {
+    "Name": "Tula Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-10-17T00:00:00",
+    "ToDate": "2025-10-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Tula Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "तुला संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Dhanteras",
+    "Category": "Festival",
+    "FromDate": "2025-10-18T00:00:00",
+    "ToDate": "2025-10-18T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dhanteras"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "धनतेरस"
+      }
+    ]
+  },
+  {
+    "Name": "Kali Chaudas",
+    "Category": "Festival",
+    "FromDate": "2025-10-19T00:00:00",
+    "ToDate": "2025-10-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kali Chaudas"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "काली चौदस"
+      }
+    ]
+  },
+  {
+    "Name": "Lakshmi Puja",
+    "Category": "Festival",
+    "FromDate": "2025-10-20T00:00:00",
+    "ToDate": "2025-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Lakshmi Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "लक्ष्मी पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Narak Chaturdashi",
+    "Category": "Festival",
+    "FromDate": "2025-10-20T00:00:00",
+    "ToDate": "2025-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Narak Chaturdashi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नरक चतुर्दशी"
+      }
+    ]
+  },
+  {
+    "Name": "Diwali",
+    "Category": "Festival",
+    "FromDate": "2025-10-20T00:00:00",
+    "ToDate": "2025-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Diwali"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दीवाली"
+      }
+    ]
+  },
+  {
+    "Name": "Govardhan Puja",
+    "Category": "Festival",
+    "FromDate": "2025-10-22T00:00:00",
+    "ToDate": "2025-10-22T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Govardhan Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गोवर्धन पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Bhaiya Dooj",
+    "Category": "Festival",
+    "FromDate": "2025-10-23T00:00:00",
+    "ToDate": "2025-10-23T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Bhaiya Dooj"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "भैया दूज"
+      }
+    ]
+  },
+  {
+    "Name": "Chhath Puja",
+    "Category": "Festival",
+    "FromDate": "2025-10-27T00:00:00",
+    "ToDate": "2025-10-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chhath Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "छठ पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Kansa Vadh",
+    "Category": "Festival",
+    "FromDate": "2025-11-01T00:00:00",
+    "ToDate": "2025-11-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kansa Vadh"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कंस वध"
+      }
+    ]
+  },
+  {
+    "Name": "Tulasi Vivah",
+    "Category": "Festival",
+    "FromDate": "2025-11-02T00:00:00",
+    "ToDate": "2025-11-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Tulasi Vivah"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "तुलसी विवाह"
+      }
+    ]
+  },
+  {
+    "Name": "Kalabhairav Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-11-12T00:00:00",
+    "ToDate": "2025-11-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kalabhairav Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कालभैरव जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Vrishchika Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-11-16T00:00:00",
+    "ToDate": "2025-11-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vrishchika Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वृश्चिक संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Vivah Panchami",
+    "Category": "Festival",
+    "FromDate": "2025-11-25T00:00:00",
+    "ToDate": "2025-11-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vivah Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विवाह पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Gita Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-12-01T00:00:00",
+    "ToDate": "2025-12-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gita Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गीता जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Dattatreya Jayanti",
+    "Category": "Festival",
+    "FromDate": "2025-12-04T00:00:00",
+    "ToDate": "2025-12-04T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dattatreya Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दत्तात्रेय जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Dhanu Sankranti",
+    "Category": "Festival",
+    "FromDate": "2025-12-16T00:00:00",
+    "ToDate": "2025-12-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dhanu Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "धनु संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Sakat Chauth",
+    "Category": "Festival",
+    "FromDate": "2026-01-06T00:00:00",
+    "ToDate": "2026-01-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Sakat Chauth"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सकट चौथ"
+      }
+    ]
+  },
+  {
+    "Name": "Makara Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-01-14T00:00:00",
+    "ToDate": "2026-01-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Makara Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मकर संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Pongal",
+    "Category": "Festival",
+    "FromDate": "2026-01-14T00:00:00",
+    "ToDate": "2026-01-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Pongal"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पोंगल"
+      }
+    ]
+  },
+  {
+    "Name": "Mauni Amavas",
+    "Category": "Festival",
+    "FromDate": "2026-01-18T00:00:00",
+    "ToDate": "2026-01-18T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mauni Amavas"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मौनी अमावस्या"
+      }
+    ]
+  },
+  {
+    "Name": "Vasant Panchami",
+    "Category": "Festival",
+    "FromDate": "2026-01-23T00:00:00",
+    "ToDate": "2026-01-23T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vasant Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वसंत पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Ratha Saptami",
+    "Category": "Festival",
+    "FromDate": "2026-01-25T00:00:00",
+    "ToDate": "2026-01-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ratha Saptami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "रथ सप्तमी"
+      }
+    ]
+  },
+  {
+    "Name": "Kumbha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-02-13T00:00:00",
+    "ToDate": "2026-02-13T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kumbha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कुंभ संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Maha Shivaratri",
+    "Category": "Festival",
+    "FromDate": "2026-02-15T00:00:00",
+    "ToDate": "2026-02-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Maha Shivaratri"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "महाशिवरात्रि"
+      }
+    ]
+  },
+  {
+    "Name": "Surya Grahan *Valayakara",
+    "Category": "Festival",
+    "FromDate": "2026-02-17T00:00:00",
+    "ToDate": "2026-02-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Surya Grahan *Valayakara"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "Surya Grahan *Valayakara"
+      }
+    ]
+  },
+  {
+    "Name": "Chhoti Holi",
+    "Category": "Festival",
+    "FromDate": "2026-03-03T00:00:00",
+    "ToDate": "2026-03-03T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chhoti Holi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "छोटी होली"
+      }
+    ]
+  },
+  {
+    "Name": "Holika Dahan",
+    "Category": "Festival",
+    "FromDate": "2026-03-03T00:00:00",
+    "ToDate": "2026-03-03T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Holika Dahan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "होलिका दहन"
+      }
+    ]
+  },
+  {
+    "Name": "Chandra Grahan *Purna",
+    "Category": "Festival",
+    "FromDate": "2026-03-03T00:00:00",
+    "ToDate": "2026-03-03T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chandra Grahan *Purna"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "चंद्र ग्रहण *पूर्ण"
+      }
+    ]
+  },
+  {
+    "Name": "Holi",
+    "Category": "Festival",
+    "FromDate": "2026-03-04T00:00:00",
+    "ToDate": "2026-03-04T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Holi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "होली"
+      }
+    ]
+  },
+  {
+    "Name": "Basoda",
+    "Category": "Festival",
+    "FromDate": "2026-03-11T00:00:00",
+    "ToDate": "2026-03-11T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Basoda"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "बसोड़ा"
+      }
+    ]
+  },
+  {
+    "Name": "Meena Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-03-15T00:00:00",
+    "ToDate": "2026-03-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Meena Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मीन संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Ugadi",
+    "Category": "Festival",
+    "FromDate": "2026-03-19T00:00:00",
+    "ToDate": "2026-03-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ugadi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "उगादी"
+      }
+    ]
+  },
+  {
+    "Name": "Gudi Padwa",
+    "Category": "Festival",
+    "FromDate": "2026-03-19T00:00:00",
+    "ToDate": "2026-03-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gudi Padwa"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गुड़ी पड़वा"
+      }
+    ]
+  },
+  {
+    "Name": "Chaitra Navratri",
+    "Category": "Festival",
+    "FromDate": "2026-03-19T00:00:00",
+    "ToDate": "2026-03-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chaitra Navratri"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "चैत्र नवरात्रि"
+      }
+    ]
+  },
+  {
+    "Name": "Gauri Puja",
+    "Category": "Festival",
+    "FromDate": "2026-03-21T00:00:00",
+    "ToDate": "2026-03-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gauri Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गौरी पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Gangaur",
+    "Category": "Festival",
+    "FromDate": "2026-03-21T00:00:00",
+    "ToDate": "2026-03-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gangaur"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गणगौर"
+      }
+    ]
+  },
+  {
+    "Name": "Yamuna Chhath",
+    "Category": "Festival",
+    "FromDate": "2026-03-24T00:00:00",
+    "ToDate": "2026-03-24T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Yamuna Chhath"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "यमुना छठ"
+      }
+    ]
+  },
+  {
+    "Name": "Swaminarayan Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-03-27T00:00:00",
+    "ToDate": "2026-03-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Swaminarayan Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "स्वामीनारायण जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Hanuman Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-04-02T00:00:00",
+    "ToDate": "2026-04-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hanuman Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हनुमान जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Hanuman Janmotsava",
+    "Category": "Festival",
+    "FromDate": "2026-04-02T00:00:00",
+    "ToDate": "2026-04-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hanuman Janmotsava"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हनुमान जन्मोत्सव"
+      }
+    ]
+  },
+  {
+    "Name": "Mesha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-04-14T00:00:00",
+    "ToDate": "2026-04-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mesha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मेष संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Solar New Year",
+    "Category": "Festival",
+    "FromDate": "2026-04-14T00:00:00",
+    "ToDate": "2026-04-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Solar New Year"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सौर नववर्ष"
+      }
+    ]
+  },
+  {
+    "Name": "Parashurama Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-04-19T00:00:00",
+    "ToDate": "2026-04-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Parashurama Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "परशुराम जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Akshaya Tritiya",
+    "Category": "Festival",
+    "FromDate": "2026-04-19T00:00:00",
+    "ToDate": "2026-04-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Akshaya Tritiya"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "अक्षय तृतीया"
+      }
+    ]
+  },
+  {
+    "Name": "Ganga Saptami",
+    "Category": "Festival",
+    "FromDate": "2026-04-23T00:00:00",
+    "ToDate": "2026-04-23T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganga Saptami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गंगा सप्तमी"
+      }
+    ]
+  },
+  {
+    "Name": "Narasimha Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-04-30T00:00:00",
+    "ToDate": "2026-04-30T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Narasimha Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नरसिंह जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Narada Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-05-02T00:00:00",
+    "ToDate": "2026-05-02T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Narada Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नारद जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Vrishabha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-05-15T00:00:00",
+    "ToDate": "2026-05-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vrishabha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वृषभ संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Vat Savitri Vrat",
+    "Category": "Festival",
+    "FromDate": "2026-05-16T00:00:00",
+    "ToDate": "2026-05-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vat Savitri Vrat"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वट सावित्री व्रत"
+      }
+    ]
+  },
+  {
+    "Name": "Shani Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-05-16T00:00:00",
+    "ToDate": "2026-05-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Shani Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "शनि जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Ganga Dussehra",
+    "Category": "Festival",
+    "FromDate": "2026-05-25T00:00:00",
+    "ToDate": "2026-05-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganga Dussehra"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गंगा दशहरा"
+      }
+    ]
+  },
+  {
+    "Name": "Mithuna Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-06-15T00:00:00",
+    "ToDate": "2026-06-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Mithuna Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "मिथुन संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Jagannath Rathyatra",
+    "Category": "Festival",
+    "FromDate": "2026-07-16T00:00:00",
+    "ToDate": "2026-07-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Jagannath Rathyatra"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "जगन्नाथ रथयात्रा"
+      }
+    ]
+  },
+  {
+    "Name": "Karka Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-07-16T00:00:00",
+    "ToDate": "2026-07-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Karka Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कर्क संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Agastya Arghya",
+    "Category": "Festival",
+    "FromDate": "2026-08-01T00:00:00",
+    "ToDate": "2026-08-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Agastya Arghya"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "Agastya Arghya"
+      }
+    ]
+  },
+  {
+    "Name": "Surya Grahan *Purna",
+    "Category": "Festival",
+    "FromDate": "2026-08-12T00:00:00",
+    "ToDate": "2026-08-12T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Surya Grahan *Purna"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "Surya Grahan *Purna"
+      }
+    ]
+  },
+  {
+    "Name": "Hariyali Teej",
+    "Category": "Festival",
+    "FromDate": "2026-08-15T00:00:00",
+    "ToDate": "2026-08-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hariyali Teej"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हरियाली तीज"
+      }
+    ]
+  },
+  {
+    "Name": "Nag Panchami",
+    "Category": "Festival",
+    "FromDate": "2026-08-17T00:00:00",
+    "ToDate": "2026-08-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Nag Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नाग पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Simha Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-08-17T00:00:00",
+    "ToDate": "2026-08-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Simha Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सिंह संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Onam",
+    "Category": "Festival",
+    "FromDate": "2026-08-26T00:00:00",
+    "ToDate": "2026-08-26T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Onam"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "ओणम"
+      }
+    ]
+  },
+  {
+    "Name": "Varalakshmi Vrat",
+    "Category": "Festival",
+    "FromDate": "2026-08-28T00:00:00",
+    "ToDate": "2026-08-28T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Varalakshmi Vrat"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वरलक्ष्मी व्रत"
+      }
+    ]
+  },
+  {
+    "Name": "Raksha Bandhan",
+    "Category": "Festival",
+    "FromDate": "2026-08-28T00:00:00",
+    "ToDate": "2026-08-28T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Raksha Bandhan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "रक्षाबंधन"
+      }
+    ]
+  },
+  {
+    "Name": "Rakhi",
+    "Category": "Festival",
+    "FromDate": "2026-08-28T00:00:00",
+    "ToDate": "2026-08-28T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Rakhi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "राखी"
+      }
+    ]
+  },
+  {
+    "Name": "Gayatri Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-08-28T00:00:00",
+    "ToDate": "2026-08-28T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gayatri Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गायत्री जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Chandra Grahan *Anshika",
+    "Category": "Festival",
+    "FromDate": "2026-08-28T00:00:00",
+    "ToDate": "2026-08-28T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chandra Grahan *Anshika"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "Chandra Grahan *Anshika"
+      }
+    ]
+  },
+  {
+    "Name": "Kajari Teej",
+    "Category": "Festival",
+    "FromDate": "2026-08-31T00:00:00",
+    "ToDate": "2026-08-31T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kajari Teej"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कजरी तीज"
+      }
+    ]
+  },
+  {
+    "Name": "Hartalika Teej",
+    "Category": "Festival",
+    "FromDate": "2026-09-14T00:00:00",
+    "ToDate": "2026-09-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Hartalika Teej"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "हरतालिका तीज"
+      }
+    ]
+  },
+  {
+    "Name": "Rishi Panchami",
+    "Category": "Festival",
+    "FromDate": "2026-09-15T00:00:00",
+    "ToDate": "2026-09-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Rishi Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "ऋषि पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Balarama Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-09-16T00:00:00",
+    "ToDate": "2026-09-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Balarama Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "बलराम जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Vishwakarma Puja",
+    "Category": "Festival",
+    "FromDate": "2026-09-17T00:00:00",
+    "ToDate": "2026-09-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vishwakarma Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विश्वकर्मा पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Kanya Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-09-17T00:00:00",
+    "ToDate": "2026-09-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kanya Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कन्या संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Ganesh Visarjan",
+    "Category": "Festival",
+    "FromDate": "2026-09-25T00:00:00",
+    "ToDate": "2026-09-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Ganesh Visarjan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गणेश विसर्जन"
+      }
+    ]
+  },
+  {
+    "Name": "Anant Chaturdashi",
+    "Category": "Festival",
+    "FromDate": "2026-09-25T00:00:00",
+    "ToDate": "2026-09-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Anant Chaturdashi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "अनंत चतुर्दशी"
+      }
+    ]
+  },
+  {
+    "Name": "Pitrupaksha Begins",
+    "Category": "Festival",
+    "FromDate": "2026-09-27T00:00:00",
+    "ToDate": "2026-09-27T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Pitrupaksha Begins"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "पितृपक्ष आरंभ"
+      }
+    ]
+  },
+  {
+    "Name": "Navratri Begins",
+    "Category": "Festival",
+    "FromDate": "2026-10-11T00:00:00",
+    "ToDate": "2026-10-11T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Navratri Begins"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नवरात्रि आरंभ"
+      }
+    ]
+  },
+  {
+    "Name": "Saraswati Avahan",
+    "Category": "Festival",
+    "FromDate": "2026-10-16T00:00:00",
+    "ToDate": "2026-10-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Saraswati Avahan"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सरस्वती आवाहन"
+      }
+    ]
+  },
+  {
+    "Name": "Saraswati Puja",
+    "Category": "Festival",
+    "FromDate": "2026-10-17T00:00:00",
+    "ToDate": "2026-10-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Saraswati Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "सरस्वती पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Tula Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-10-17T00:00:00",
+    "ToDate": "2026-10-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Tula Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "तुला संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Vijayadashami",
+    "Category": "Festival",
+    "FromDate": "2026-10-20T00:00:00",
+    "ToDate": "2026-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vijayadashami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विजयादशमी"
+      }
+    ]
+  },
+  {
+    "Name": "Dussehra",
+    "Category": "Festival",
+    "FromDate": "2026-10-20T00:00:00",
+    "ToDate": "2026-10-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dussehra"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दशहरा"
+      }
+    ]
+  },
+  {
+    "Name": "Kojagara Puja",
+    "Category": "Festival",
+    "FromDate": "2026-10-25T00:00:00",
+    "ToDate": "2026-10-25T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kojagara Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कोजागरी पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Karwa Chauth",
+    "Category": "Festival",
+    "FromDate": "2026-10-29T00:00:00",
+    "ToDate": "2026-10-29T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Karwa Chauth"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "करवा चौथ"
+      }
+    ]
+  },
+  {
+    "Name": "Govatsa Dwadashi",
+    "Category": "Festival",
+    "FromDate": "2026-11-05T00:00:00",
+    "ToDate": "2026-11-05T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Govatsa Dwadashi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गोवत्स द्वादशी"
+      }
+    ]
+  },
+  {
+    "Name": "Dhanteras",
+    "Category": "Festival",
+    "FromDate": "2026-11-06T00:00:00",
+    "ToDate": "2026-11-06T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dhanteras"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "धनतेरस"
+      }
+    ]
+  },
+  {
+    "Name": "Kali Chaudas",
+    "Category": "Festival",
+    "FromDate": "2026-11-07T00:00:00",
+    "ToDate": "2026-11-07T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kali Chaudas"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "काली चौदस"
+      }
+    ]
+  },
+  {
+    "Name": "Lakshmi Puja",
+    "Category": "Festival",
+    "FromDate": "2026-11-08T00:00:00",
+    "ToDate": "2026-11-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Lakshmi Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "लक्ष्मी पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Narak Chaturdashi",
+    "Category": "Festival",
+    "FromDate": "2026-11-08T00:00:00",
+    "ToDate": "2026-11-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Narak Chaturdashi"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "नरक चतुर्दशी"
+      }
+    ]
+  },
+  {
+    "Name": "Diwali",
+    "Category": "Festival",
+    "FromDate": "2026-11-08T00:00:00",
+    "ToDate": "2026-11-08T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Diwali"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दीवाली"
+      }
+    ]
+  },
+  {
+    "Name": "Govardhan Puja",
+    "Category": "Festival",
+    "FromDate": "2026-11-10T00:00:00",
+    "ToDate": "2026-11-10T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Govardhan Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गोवर्धन पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Bhaiya Dooj",
+    "Category": "Festival",
+    "FromDate": "2026-11-11T00:00:00",
+    "ToDate": "2026-11-11T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Bhaiya Dooj"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "भैया दूज"
+      }
+    ]
+  },
+  {
+    "Name": "Chhath Puja",
+    "Category": "Festival",
+    "FromDate": "2026-11-15T00:00:00",
+    "ToDate": "2026-11-15T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Chhath Puja"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "छठ पूजा"
+      }
+    ]
+  },
+  {
+    "Name": "Vrishchika Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-11-16T00:00:00",
+    "ToDate": "2026-11-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vrishchika Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "वृश्चिक संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Kansa Vadh",
+    "Category": "Festival",
+    "FromDate": "2026-11-20T00:00:00",
+    "ToDate": "2026-11-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kansa Vadh"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कंस वध"
+      }
+    ]
+  },
+  {
+    "Name": "Tulasi Vivah",
+    "Category": "Festival",
+    "FromDate": "2026-11-21T00:00:00",
+    "ToDate": "2026-11-21T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Tulasi Vivah"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "तुलसी विवाह"
+      }
+    ]
+  },
+  {
+    "Name": "Kalabhairav Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-12-01T00:00:00",
+    "ToDate": "2026-12-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Kalabhairav Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "कालभैरव जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Vivah Panchami",
+    "Category": "Festival",
+    "FromDate": "2026-12-14T00:00:00",
+    "ToDate": "2026-12-14T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Vivah Panchami"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "विवाह पंचमी"
+      }
+    ]
+  },
+  {
+    "Name": "Dhanu Sankranti",
+    "Category": "Festival",
+    "FromDate": "2026-12-16T00:00:00",
+    "ToDate": "2026-12-16T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dhanu Sankranti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "धनु संक्रांति"
+      }
+    ]
+  },
+  {
+    "Name": "Gita Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-12-20T00:00:00",
+    "ToDate": "2026-12-20T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Gita Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "गीता जयंती"
+      }
+    ]
+  },
+  {
+    "Name": "Dattatreya Jayanti",
+    "Category": "Festival",
+    "FromDate": "2026-12-23T00:00:00",
+    "ToDate": "2026-12-23T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Dattatreya Jayanti"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दत्तात्रेय जयंती"
+      }
+    ]
+  }
+]
